@@ -21,6 +21,11 @@ When it comes to my own experiences with configuration management in general, I 
 
 I am not very well versed with configuration management or programs that are made to help with configuration management. When it comes to Git and Github, I feel like Git is popular due to Github, not the other way around. I like the way that Github feels, everything is easy to find, locate, and change whenever I want. Even the desktop app is pretty aesthetically pleasing and easy to use and commit to the master branch easily. Since I’m not really experienced with other version control systems, I wasn’t very comfortable using Git and was a little confused at times. Although I’m sure there are a lot of worse version control systems, I don’t quite think that Git is the reason that GitHub is so popular, and as a matter of fact, is the other way around.
 
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/project1.png">
+</div>
+
 ## Conclusion
 
 Conclusively, Configuration management is an important fundamental to learn when working in the software engineering field. Allowing ease of access to all folders/files that one or his colleagues might need while working on a project. All stored in an easy to locate place, allowing anyone with permission access to change or look over said files, and without configuration management programs, working on a project could get real messy. And Git is popular because the ease of access and simplicity of GitHub, making it the most popular technology for configuration management!
