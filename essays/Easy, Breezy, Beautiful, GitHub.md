@@ -23,7 +23,7 @@ I am not very well versed with configuration management or programs that are mad
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/project1.png">
+  <img class="ui image" src="../images/github.png">
 </div>
 
 ## Conclusion
