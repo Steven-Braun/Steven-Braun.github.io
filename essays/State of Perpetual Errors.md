@@ -8,8 +8,7 @@ labels:
   - Learning
   - Javascript
   - HTML
-  - CSS
-  _ Meteor
+  - Meteor
 ---
 
 Testing Testing
