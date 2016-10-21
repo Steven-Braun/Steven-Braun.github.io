@@ -10,6 +10,7 @@ labels:
   - HTML
   - Meteor
 ---
+<img class="ui image" src="../images/ubuntus.png">
 
 ## Death by Meteor
 
