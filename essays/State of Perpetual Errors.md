@@ -20,7 +20,11 @@ When I had first started my meteor adventure, I was excited to be learning a new
 
 I thought all of the different importing statements were a little confusing at the start. When I was attempting to do the To-Do List practice. Just forgetting one period, or adding one more for whatever reason, made a huge problem and I was unable to import some files and after a while of searching on google, I was kind of able to figure it out why. 
 <img class="ui image" src="../images/import2dots.png">
+
+
 Just this little difference cause my whole program to crash!
+
+
 <img class="ui image" src="../images/import1dot.png">
 I also felt like the syntax of functions were weirdly written, although they were not that hard to understand compared to regular java syntax that I’m normally used to. Load times were a bit of a problem as well but did not really make it any more difficult to understand. I thought it was cool to learn and use the command line prompt. I had never really used it before so I enjoyed being able to learn about it and be able to implement it for the use of a project. It was definitely the easiest thing to learn even though it wasn’t even Meteor.  I think that Meteor has a lot of potential for software engineers or people looking to create websites and things of that nature. It seems the potential is astronomical and there are buttons and databases and a whole bunch of cool new things that I learned. I also liked the use of the flow router, making it easier to navigate back to the home page and it felt like the site that we were to create could work and actually be used by other people. I would like to do things like that in the future and being able to catch my first glimpses of it now was awesome. When it comes to the application architecture of Meteor, it was definitely a bit confusing, as I had no prior experience in the realms of client-server applications. However, learning about it was interesting, I was a bit confused about the server moving around because I guess I don’t really understand much about that field yet.
 
