@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on Javascript1
+title: Understanding JavaScript
 date: 2016-08-31
 labels:
   - Software Engineering
