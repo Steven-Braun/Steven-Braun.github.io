@@ -10,9 +10,7 @@ labels:
 summary: Me and my friends decided to make a band in the summer of 2016!
 ---
 
-<div class="ui small rounded images">
   <img class="ui image" src="../images/project3.PNG">
-</div>
 
 Out of all of the “projects” that I have completed in my life, this was definitely the most fun. Me and my friends have all been playing an instrument for a few years; however, none of us had really played together for some reason. So we started having a bunch of jam seshes together and it turned out to be something we all enjoyed doing. We would have a jam sesh nearly every day to try and learn a whole bunch of songs and try to perfect ones we had already learned. Then one of our friends (the drummer, Matthew) told us that he was going to have a graduation party and wanted us to perform on stage during an intermission. From that point on, we were official. Mattchew and da boiz had become a reality. We then practiced songs for a while (We never made an original song sadly, we just covered mainstream ones), until it was the morning of the performance.
 
