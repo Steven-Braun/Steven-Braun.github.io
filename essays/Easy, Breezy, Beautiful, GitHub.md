@@ -11,6 +11,10 @@ labels:
 ---
 ## Easy, Breezy, Beautiful, GitHub
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/gcat.jpg">
+</div>
+
 Configuration’s primordial essence is the Latin words “com,” meaning together, and “figurare,” meaning to form. Putting those together we have the definition, to arrange and/or organize, . Having apt skills in configuration management is a quintessential requirement for being a good software engineer. When it comes to working in teams or in a large group, trying to build astronomically large and complex software systems is a hassle, Even moreso without proper configuration management, making these convoluted systems even harder to maintain over time. Luckily for us software engineers, there are repositories such as Github, which is the most popular technology for configuration management. Git and Github go hand in hand together, as Git is a version control system, Github is the hosting site that allows one to push their git projects to, and make our software managing lives much easier. 
 
 ## Experience
