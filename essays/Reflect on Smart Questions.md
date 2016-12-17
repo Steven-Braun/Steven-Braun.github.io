@@ -8,6 +8,11 @@ labels:
   - Learning
   - Javascript
 ---
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/thinker.jpg">
+</div>
+
 ## Questions... Questions?
 From the beginning of time, man has asked questions. Whether they be to himself, or his peers, questions have are the quintessential reasons that some things are even discovered today. Everything starts with a question. “Is the Earth round?”, “Why did this apple fall on my head?” These are a few examples of simple questions that have lead people like Sir Isaac Newton to come up with his ideas of gravity, and eventually, the laws of motion.  Philosophers like Confucius create philosophical questions that make people think about human nature, scruples, and psyche. Some questions are filled with superfluous details, and others on the opposite end of the spectrum could make one ask if what they were reading was even English. Nowadays, a profusion of people, including software engineers, have difficulties with many software and coding problems, and come to the infinite knowledge pool known as the internet in search of answers. Some people still don’t put in the effort to write a properly formatted question, or simply don’t know how to and unfortunately one of the most important communication skills of a software engineer is to learn how to ask “smart” questions.  Luckily, Eric Raymond has written an essay that provides guidelines for effective interaction with the open source community, so even can get educated on the matter and start asking questions that will intrigue readers to answer, rather than have them sitting in confusion in their desk chair. 
 
