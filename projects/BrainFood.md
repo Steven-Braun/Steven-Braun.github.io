@@ -23,7 +23,7 @@ The web application [Brain Food](https://brain-food.github.io/) was conceived by
 locations where to buy ingredients necessary. 
 
 ## Functionality
-
+<img class="ui image" src="https://raw.githubusercontent.com/brain-food/brain-food.github.io/master/doc/add-vendor.png">
 For this project, I collaborated with Kea Uehara, Riley Miyamoto, and Clint Morimoto. The project currently has a functioning add recipe page, which will add things to the Mongo database which will update and be shown in the food list page. The add location page is also functional and similar to the add recipe page, but instead has its information updated in the food-hunt page. There is also a functional comments section in the Market page.  My contributions to the project were updated the github.io page for Milestone updates, as well as creating the search page, place page, and functionality of the add location page. As of December 16, 2016, the search page and google maps page are not functional, although Brain Food developers are thinking about working on it after the class has finished. 
 
 
