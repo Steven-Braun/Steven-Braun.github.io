@@ -9,9 +9,7 @@ labels:
 summary: One of my projects that I created in an intro computer science course(111).
 ---
 
-<div class="ui small rounded images">
   <img class="ui image" src="../images/project1.png">
-</div>
 
 This was the second ever project of my coding career! This was our final project that we were supposed to create for the final quarter of the semester. After being confined to the strict stickerbook rubric, our professor finally let us expand to something we really wanted to create. Our project could literally be whatever we wanted (although he had to review it and decide if it was worthy of course). When I was little I always liked playing concentration, match em ups, or whatever you want to call it and I thought it would be a really cool game to make.
 
