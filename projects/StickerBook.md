@@ -13,6 +13,8 @@ summary: One of my projects that I created in an intro computer science course(1
   <img class="ui image" src="../images/project2.png">
 </div>
 
+<center><iframe width="640" height="390" src="https://www.youtube.com/watch?v=6TcTM0kP3uw" frameborder="0" allowfullscreen></iframe></center>
+
 This project was pretty much the first project of my computer science career. It took place over three quarters of the semester as we were instructed to turn in certain milestones for the first three quarters of the semester. The project is able to grab any of the four stickers, continually paste them onto the background picture anywhere below the line, and right click any picture on the canvas to delete it. It is also able to save whatever is currently on the canvas to a .txt file and is able to load that text file whenever it is needed. Although it is definitely not a masterpiece by any means, I was very proud when I completed it!
 
 In this project, I was working alone, although I had the help of my TA to put it together, as I was still quite new at making Code.
