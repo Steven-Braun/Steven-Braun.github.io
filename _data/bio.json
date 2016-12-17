@@ -6,7 +6,7 @@
     "email": "sbraun@hawaii.edu",
     "phone": "808-346-6218",
     "website": "https://Steven-Braun.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences, as well as a minor in Japanese, at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "2569 Dole Street",
       "postalCode": "96822",
@@ -47,6 +47,11 @@
       "name": "Information and Computer Sciences",
       "keywords": [
       ]
+    },
+        {
+      "name": "Japanese Language",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -54,9 +59,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "C/C++",
         "Java",
         "Javascript",
+        "HTML",
+        "Semantic-UI",
+        "CSS",
       ]
     },
     {
@@ -65,6 +73,7 @@
       "keywords": [
         "Windows",
         "Git/GitHub",
+        "Microsoft Office",
       ]
     }
   ],
