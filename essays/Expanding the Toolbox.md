@@ -13,6 +13,10 @@ labels:
 
 ## Hello World
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/toolkit.jpg">
+</div>
+
 Semantic UI has been a journey to learn and get used to. Learning Semantic UI has pretty much been learning a new language for me. I have had no prior experience with using HTML or CSS classes so I was already confused and overwhelmed at the start of the lesson, but I was eager to add a new tool to my toolbox. When comparing other things I have learned in the past I see how HTML and CSS are easier to use than a traditional programming language. Everything is nicely labeled and you can make cool looking web pages with just some random pictures you can steal from google and impress your friends, and the code itself looks pretty intuitive. There aren’t many complex syntaxes like for loops or while loops, everything is just wrapped in labels to make it easier to see. I feel like Semantic UI is simply an extension or a combination of HTML and CSS, and is not that complex to learn and is more than likely, worth one’s time.
 
 ## Semantic UI
