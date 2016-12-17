@@ -32,4 +32,8 @@ so when I try to run the code it never works initially, although I’m finally g
 
 ## Conclusion
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/java.jpg">
+</div>
+
 Conclusively, Javascript is very similar to a language I already know quite well, Java, and that Java seems like it would be good for those looking to use it for software engineering. Javascript has been an incredibly stressful, yet enjoyable journey that I feel has strengthened my abilities as a programmer by testing my abilities to learn on my own, and making me think about different kinds of problems and how to solve them using a new syntax. 
