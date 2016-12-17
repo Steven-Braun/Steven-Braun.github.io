@@ -133,6 +133,14 @@
       ]
     }
   ],
+  "awards":[
+    {
+      "title": "Dean's List",
+      "date": "Spring 2015, Spring 2016",
+      "awarder": "University of Hawaii College of Natural Sciences",
+      "summary": "Awarded to full time students who achieve a GPA of 3.5 or higher in a semester."
+    }
+   ],
   "references": [
     {
       "name": "Available upon request",
