@@ -27,5 +27,9 @@ I am not very well versed with configuration management or programs that are mad
 
 ## Conclusion
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/cabinet.jpg">
+</div>
+
 Conclusively, Configuration management is an important fundamental to learn when working in the software engineering field. Allowing ease of access to all folders/files that one or his colleagues might need while working on a project. All stored in an easy to locate place, allowing anyone with permission access to change or look over said files, and without configuration management programs, working on a project could get real messy. And Git is popular because the ease of access and simplicity of GitHub, making it the most popular technology for configuration management!
 
