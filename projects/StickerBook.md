@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project2.png
+image: images/project2square.png
 title: StickerBook
 date: 2015
 labels:
