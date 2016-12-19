@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/braingirl.png
+image: images/brainsquare.png
 title: Brain Food
 date: 2016
 labels:
