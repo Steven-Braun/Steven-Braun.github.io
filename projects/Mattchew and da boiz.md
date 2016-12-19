@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project3.PNG
+image: images/project3square.PNG
 title: Mattchew and da boiz
 date: 2016
 labels:
