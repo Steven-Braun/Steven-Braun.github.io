@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project1.png
+image: images/project1square.png
 title: Concentration
 date: 2015
 labels:
