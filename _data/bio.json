@@ -66,7 +66,7 @@
         "Semantic-UI",
         "CSS",
         "MASM",
-        
+        "SQL",
       ]
     },
     {
@@ -111,6 +111,20 @@
       ]
     }
   ],
+  
+    "work": [
+    {
+      "company": "UH Manoa",
+      "position": "Computer Support Specialist",
+      "website": "http://manoa.hawaii.edu/undergrad/SAAS/",
+      "startDate": "2017",
+      "endDate": "Present",
+      "summary": "Troubleshoot software problems in a Microsoft environment. Assist with maintenance of computer system and lab (duties include setup installation, troubleshooting of applications and hardware, training, and general lab clean-up). Help tutor students taking ICS 101 classes. Assist with maintenance, updating, and design of databases and generation of reports.",
+      "highlights": [
+      ]
+    }
+  ],
+  
   "volunteer": [
     {
       "organization": "Grey Hats",
