@@ -89,6 +89,15 @@
       "endDate": "Present",
       "gpa": "3.62",
       "courses": [
+        "Intro to Computer Science I & II", 
+        "Discrete Math For CS I & II", 
+        "Program Structure",
+        "Algorithms",
+        "Machine-Lvl & Systems Programming",
+        "Software Engineering I & II",
+        "Data Storage & Retrieval",
+        "Design for Mobile Devices",
+        "Secure Development",
       ]
     },
         {
@@ -105,10 +114,10 @@
   "volunteer": [
     {
       "organization": "Grey Hats",
-      "website": "http://cnhkeyclub.org/",
+      "website": "https://github.com/uhmgreyhats",
       "position": "Active General Member",
-      "startDate": "2011-08-20",
-      "endDate": "2014-11-22",
+      "startDate": "2017-05-10",
+      "endDate": "Present",
       "summary": "I was a simply an active member of the club, who did various volunteer work like dispensing school supplies to underprivileged individuals at the Salvation Army, and attaining 5 hours of community service every month.",
       "highlights": [
         "Kalapaki Beach Cleanup",
@@ -125,7 +134,7 @@
       "highlights": [
       ]
     },
-    {
+    
       "organization": "Association for Computing Machinery",
       "website": "http://www.acm.org/",
       "position": "Active Student Member",
